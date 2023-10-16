@@ -42,19 +42,19 @@ For further information on the SimpleShell program and additional functionalitie
 
 ## Contributions
 
-Namit Jain (2022315)
-Round Robin Implmentation
-Scheduler Linking
-Array Creation
-Semaphore Creation
-Optimisation and Debugging
+-    Namit Jain (2022315)
+-    Round Robin Implmentation
+-    Scheduler Linking
+-    Array Creation
+-    Semaphore Creation
+-    Optimisation and Debugging
 
-Pranav Tanwar (2022368)
-Round Robin Implementation
-Child Process Creation
-History Management
-Readme and comments handling
-Optimization and debugging
+-    Pranav Tanwar (2022368)
+-    Round Robin Implementation
+-    Child Process Creation
+-    History Management
+-    Readme and comments handling
+-    Optimization and debugging
 
 ## Github Link
 https://github.com/namit22315/group_67_Assignment_3_OS
