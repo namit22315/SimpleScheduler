@@ -48,8 +48,6 @@ For further information on the SimpleShell program and additional functionalitie
 -    Array Creation
 -    Semaphore Creation
 -    Optimisation and Debugging
-
--    Pranav Tanwar (2022368)
 -    Round Robin Implementation
 -    Child Process Creation
 -    History Management
@@ -57,4 +55,4 @@ For further information on the SimpleShell program and additional functionalitie
 -    Optimization and debugging
 
 ## Github Link
-https://github.com/namit22315/group_67_Assignment_3_OS
+https://github.com/namit22315/SimpleScheduler
